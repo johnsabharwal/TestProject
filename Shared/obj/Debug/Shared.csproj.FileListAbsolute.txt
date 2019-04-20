@@ -1,0 +1,6 @@
+C:\Users\john\source\repos\TestProject\Shared\bin\Debug\Shared.dll
+C:\Users\john\source\repos\TestProject\Shared\bin\Debug\Shared.pdb
+C:\Users\john\source\repos\TestProject\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\Users\john\source\repos\TestProject\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\TestProject\Shared\obj\Debug\Shared.dll
+C:\Users\john\source\repos\TestProject\Shared\obj\Debug\Shared.pdb

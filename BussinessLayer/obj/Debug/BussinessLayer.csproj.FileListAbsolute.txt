@@ -1,0 +1,17 @@
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\Shared.dll
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\Shared.pdb
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\john\source\repos\TestProject\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\john\source\repos\TestProject\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\john\source\repos\TestProject\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\TestProject\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\john\source\repos\TestProject\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\john\source\repos\TestProject\BussinessLayer\obj\Debug\BussinessLayer.pdb

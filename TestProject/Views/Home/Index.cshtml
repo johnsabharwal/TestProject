@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<form action="http://localhost:49581/Account/Register" method="post">
+    <table>
+        <thead>
+            <tr>
+                <th>UserName</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="text" name="UserName" value="" /></td>
+                <td><input type="email" name="Email" value="" /></td>
+                <td><input type="number" name="Phone" value="" /></td>
+                <td><textarea rows="4" name="Address"></textarea></td>
+                <td><input type="submit" value="Submit" /></td>
+
+            </tr>
+
+        </tbody>
+    </table>
+
+</form>
