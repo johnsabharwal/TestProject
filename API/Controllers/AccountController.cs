@@ -21,8 +21,33 @@ namespace API.Controllers
         [HttpPost]
         public Response Register(CreateUser createUser)
         {
-            _response= _acountServices.CreateUser(createUser);
+            createUser.validate();
+            _response = _acountServices.CreateUser(createUser);
             return _response;
         }
+        /// <summary>
+        /// update existing user
+        /// </summary>
+        /// <param name="updateUser"></param>
+        /// <returns></returns>
+        [HttpPost]
+        public Response UpdateUser(UpdateUser updateUser)
+        {
+            _response = _acountServices.UpdateUser(updateUser);
+            return _response;
+        }
+        /// <summary>
+        /// Delete user
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <returns></returns>
+        [HttpPost]
+        public Response DeleteUser(long userId)
+        {
+            _response = _acountServices.DeleteUser(userId);
+            return _response;
+        }
+      
+        
     }
 }
